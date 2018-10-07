@@ -3,4 +3,4 @@ setInterval(function () {
     if (button) {
         button.click();
     }
-}, 300);
+}, 700);
