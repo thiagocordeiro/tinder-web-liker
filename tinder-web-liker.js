@@ -1,5 +1,5 @@
 setInterval(function () {
-    var button = document.getElementsByClassName('recsGamepad__button--like')[0];
+    var button = document.querySelector('[aria-label="Like"]');
     if (button) {
         button.click();
     }
