@@ -11,3 +11,6 @@ Running the script is very easy, just follow instructions bellow and make it wor
 - Open browser console - [how to open chrome console](http://goo.gl/aY6jY8)
 - Past the script and press enter
 - Go to take a coffee ;)
+
+#### What you get
+![Postman setup](https://drive.google.com/uc?id=1arsAjTZEyErQY0EzFr2G67Aoq8vLWToj)
