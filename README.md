@@ -13,4 +13,4 @@ Running the script is very easy, just follow instructions bellow and make it wor
 - Go to take a coffee ;)
 
 #### What you get
-![Postman setup](https://drive.google.com/uc?id=1arsAjTZEyErQY0EzFr2G67Aoq8vLWToj)
+![swiping](https://drive.google.com/uc?id=1arsAjTZEyErQY0EzFr2G67Aoq8vLWToj)
